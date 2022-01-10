@@ -2,12 +2,13 @@
     "name": "rapid-clone",
     "version": "1.0.0",
     "description": "JavaScript Object Rapid Deep Clone",
-    "main": "index.js",
+    "main": "lib/index.js",
+    "types": "lib/index.d.ts",
     "directories": {
         "lib": "lib"
     },
     "scripts": {
-        "tsc": "tsc",
+        "build": "tsc",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
@@ -15,7 +16,7 @@
         "url": "git+https://github.com/NurimOnsemiro/rapid-clone.git"
     },
     "keywords": [],
-    "author": "",
+    "author": "Honsemiro <hgs33hgs@gmail.com>",
     "license": "ISC",
     "bugs": {
         "url": "https://github.com/NurimOnsemiro/rapid-clone/issues"
