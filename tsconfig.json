@@ -7,7 +7,7 @@
         "strict": false,
         "skipLibCheck": true,
         "outDir": "./lib",
-        "rootDir": "./",
+        "rootDir": "./ts",
         "declaration": true
     }
 }
