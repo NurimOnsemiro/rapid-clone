@@ -8,6 +8,7 @@
         "lib": "lib"
     },
     "scripts": {
+        "tsc": "tsc",
         "build": "tsc",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
@@ -21,5 +22,8 @@
     "bugs": {
         "url": "https://github.com/NurimOnsemiro/rapid-clone/issues"
     },
-    "homepage": "https://github.com/NurimOnsemiro/rapid-clone#readme"
+    "homepage": "https://github.com/NurimOnsemiro/rapid-clone#readme",
+    "devDependencies": {
+        "typescript": "^4.5.4"
+    }
 }
