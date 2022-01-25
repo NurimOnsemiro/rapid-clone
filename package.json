@@ -1,6 +1,6 @@
 {
     "name": "rapid-clone",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "JavaScript Object Rapid Deep Clone",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
@@ -16,7 +16,11 @@
         "type": "git",
         "url": "git+https://github.com/NurimOnsemiro/rapid-clone.git"
     },
-    "keywords": [],
+    "keywords": [
+        "clone",
+        "rapid-clone",
+        "copy"
+    ],
     "author": "Honsemiro <hgs33hgs@gmail.com>",
     "license": "ISC",
     "bugs": {
