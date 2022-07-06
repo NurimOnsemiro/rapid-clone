@@ -1,10 +1,11 @@
-# rapid-clone
- JavaScript Object Rapid Deep Clone
+# Rapid JavaScript Object Deep Clone
 
-# Note
-Only data extracted through JSON.stringify() is duplicated.
+## Note
 
-# Usage
+Only data extracted through `JSON.stringify()` is duplicated.
+
+## Usage
+
 ```javascript
 const { cloneObjectDeep, cloneArrayDeep } = require('rapid-clone');
 
